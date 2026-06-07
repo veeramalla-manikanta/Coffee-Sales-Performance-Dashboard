@@ -193,7 +193,7 @@ Visualizes customer purchasing behavior by:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/coffee-shop-sales-dashboard.git
+git clone https://github.com/veeramalla-manikanta/Coffee-Sales-Performance-dashboard.git
 ```
 
 ### Open Power BI File
@@ -201,7 +201,7 @@ git clone https://github.com/your-username/coffee-shop-sales-dashboard.git
 Open:
 
 ```text
-CoffeeShopSalesDashboard.pbix
+CoffeeSalesPerformanceDashboard.pbix
 ```
 
 using Power BI Desktop.
